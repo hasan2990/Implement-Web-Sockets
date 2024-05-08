@@ -1,0 +1,28 @@
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.exe
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.deps.json
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.runtimeconfig.json
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.dll
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.pdb
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.AssemblyInfoInputs.cache
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.AssemblyInfo.cs
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.csproj.CoreCompileInputs.cache
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.dll
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\refint\Ws-Client-Multiple.dll
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.pdb
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.genruntimeconfig.cache
+D:\Hasan\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\ref\Ws-Client-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.exe
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.deps.json
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.runtimeconfig.json
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\bin\Debug\net8.0\Ws-Client-Multiple.pdb
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.AssemblyInfoInputs.cache
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.AssemblyInfo.cs
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.csproj.CoreCompileInputs.cache
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\refint\Ws-Client-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.pdb
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\Ws-Client-Multiple.genruntimeconfig.cache
+D:\Hasan\Implement Web Sockets\Ws-Client-Multiple\Ws-Client-Multiple\obj\Debug\net8.0\ref\Ws-Client-Multiple.dll

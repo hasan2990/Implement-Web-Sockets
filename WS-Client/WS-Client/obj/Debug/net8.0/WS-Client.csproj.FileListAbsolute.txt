@@ -1,0 +1,14 @@
+D:\Hasan\WS-Client\WS-Client\bin\Debug\net8.0\WS-Client.exe
+D:\Hasan\WS-Client\WS-Client\bin\Debug\net8.0\WS-Client.deps.json
+D:\Hasan\WS-Client\WS-Client\bin\Debug\net8.0\WS-Client.runtimeconfig.json
+D:\Hasan\WS-Client\WS-Client\bin\Debug\net8.0\WS-Client.dll
+D:\Hasan\WS-Client\WS-Client\bin\Debug\net8.0\WS-Client.pdb
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.AssemblyInfoInputs.cache
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.AssemblyInfo.cs
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.csproj.CoreCompileInputs.cache
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.dll
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\refint\WS-Client.dll
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.pdb
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\WS-Client.genruntimeconfig.cache
+D:\Hasan\WS-Client\WS-Client\obj\Debug\net8.0\ref\WS-Client.dll

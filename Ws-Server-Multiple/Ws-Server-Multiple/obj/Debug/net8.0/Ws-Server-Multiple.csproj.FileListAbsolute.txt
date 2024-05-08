@@ -1,0 +1,50 @@
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\appsettings.Development.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\appsettings.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.exe
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.deps.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.runtimeconfig.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.dll
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.pdb
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.AssemblyInfoInputs.cache
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.AssemblyInfo.cs
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.csproj.CoreCompileInputs.cache
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.MvcApplicationPartsAssemblyInfo.cache
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets.build.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets.development.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.Ws-Server-Multiple.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.build.Ws-Server-Multiple.props
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ws-Server-Multiple.props
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ws-Server-Multiple.props
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\scopedcss\bundle\Ws-Server-Multiple.styles.css
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.dll
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\refint\Ws-Server-Multiple.dll
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.pdb
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.genruntimeconfig.cache
+D:\Hasan\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\ref\Ws-Server-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\appsettings.Development.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\appsettings.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.exe
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.deps.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.runtimeconfig.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\bin\Debug\net8.0\Ws-Server-Multiple.pdb
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.AssemblyInfoInputs.cache
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.AssemblyInfo.cs
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.csproj.CoreCompileInputs.cache
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.MvcApplicationPartsAssemblyInfo.cache
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets.build.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets.development.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.Ws-Server-Multiple.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.build.Ws-Server-Multiple.props
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ws-Server-Multiple.props
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ws-Server-Multiple.props
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\scopedcss\bundle\Ws-Server-Multiple.styles.css
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\refint\Ws-Server-Multiple.dll
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.pdb
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\Ws-Server-Multiple.genruntimeconfig.cache
+D:\Hasan\Implement Web Sockets\Ws-Server-Multiple\Ws-Server-Multiple\obj\Debug\net8.0\ref\Ws-Server-Multiple.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ws-Server-Multiple/1.0.0": {
+        "runtime": {
+          "Ws-Server-Multiple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ws-Server-Multiple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

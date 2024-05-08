@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ws-Server-Multiple.props" />
+</Project>
